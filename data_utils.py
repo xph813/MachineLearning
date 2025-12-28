@@ -1,4 +1,3 @@
-# 数据工具（与原有逻辑一致，兼容复刻代码）
 import torch
 from torchvision import datasets, transforms
 from config import config
